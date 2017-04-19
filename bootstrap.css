@@ -1,0 +1,53 @@
+#title {
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Amethysta', serif;
+	border-color: #22637c;
+	border-style: outset;
+	border-width: 5px;
+	background-color: lightblue;
+	padding: 30px;
+}
+
+h2 {
+	font-family: 'Amethysta', serif;
+}
+p {
+	font-family: 'Alegreya', serif;
+	font-size: 20px;
+}
+
+.writing {
+    font-family: 'Alegreya', serif;
+    font-size: 20px;
+}
+#now {
+	font-family: 'Amethysta', serif;
+	text-align: center;
+	padding-left: 300px;
+}
+
+#customize {
+	border-color: #22637c;
+	border-style: outset;
+	border-width: 5px;
+	background-color: lightblue;
+}
+
+#info {
+	margin:20px;
+	text-align: center;
+}
+
+h4 {
+	font-family: 'Amethysta', serif;
+}
+
+
+
+
+
+
+font-family: 'Amethysta', serif;
+font-family: 'Alegreya', serif;
